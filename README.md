@@ -2,7 +2,7 @@
 
 <img width="35%" align="right" alt="Code" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" />
 
-Hi, I'm André Galdino, primarily a backend developer but passioned about technology overall. I'm based in Rio de Janeiro, Brazil.
+Hi, I'm André Galdino, primarily a backend developer but passionate about technology overall. I'm based in Rio de Janeiro, Brazil.
 
  
 **Talking about Personal Stuffs:**
